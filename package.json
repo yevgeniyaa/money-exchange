@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SergeyKovalchuk/Money-Exchange"
+    "url": "git+https://github.com/yevgeniyaa/Money-Exchange"
   },
-  "author": "SergeyKovalchuk",
+  "author": "yevgeniyaa",
   "bugs": {
-    "url": "https://github.com/SergeyKovalchuk/Money-Exchange/issues"
+    "url": "https://github.com/yevgeniyaa/Money-Exchange/issues"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
   },
-  "homepage": "https://github.com/SergeyKovalchuk/Money-Exchange#readme"
+  "homepage": "https://github.com/yevgeniyaa/Money-Exchange#readme"
 }
